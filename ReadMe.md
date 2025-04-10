@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on the flatpak_installer repository<br>👯 I love collaborating<br>🤝 I’m looking for help with the flatpak_installer project<br>🌱 I’m currently learning bash script<br>❤️ I love making Free and Open Source Software
+🔭 I’m currently working on the flatpak_installer repository<br>👯 I love collaborating<br>🤝 I’m looking for help with the flatpak_installer project<br>🌱 I’m currently learning C<br>❤️ I love making Free and Open Source Software
 
 
 # 💻 Tech Stack:
